@@ -9,3 +9,16 @@
     "wdth" 100,
     "ROND" 0;
 }
+
+
+h1 {
+  color: #333333;
+  font-size: 32px;
+  font-weight: 100; 
+}
+
+p {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+}
